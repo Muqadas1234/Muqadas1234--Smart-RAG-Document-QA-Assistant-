@@ -46,6 +46,8 @@ groq
 PyPDF2
 python-docx
 
+
+Try Here:  https://huggingface.co/spaces/Muqadas-13/Smart_RAG_Document_QA_Assistant
 ---
 ---
 Smart RAG Document QA Assistant
